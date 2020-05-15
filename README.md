@@ -2,9 +2,9 @@
 Exploratory Data Analysis through summary statistics, plotting features, correlation analysis, and variable/feature importance.
 Application of statistical concepts i.e. descriptive analysis, inferential, hypothesis testing and confidence intervals.
 > Types of Analysis performed include;
-  ###  Univariate Analysis,
-  ### Bivariate Analysis,
-  ### Multivariate Analysis -(Principal Component Analysis, Factor Analysis and Discriminant Analysis)
+  >  Univariate Analysis,
+  > Bivariate Analysis,
+  > Multivariate Analysis -(Principal Component Analysis, Factor Analysis and Discriminant Analysis)
 
 # Experimental Design
 > Exploratory data analysis
